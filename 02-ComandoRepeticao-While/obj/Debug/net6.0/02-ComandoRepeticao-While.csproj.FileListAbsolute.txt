@@ -1,0 +1,15 @@
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\bin\Debug\net6.0\02-ComandoRepeticao-While.exe
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\bin\Debug\net6.0\02-ComandoRepeticao-While.deps.json
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\bin\Debug\net6.0\02-ComandoRepeticao-While.runtimeconfig.json
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\bin\Debug\net6.0\02-ComandoRepeticao-While.dll
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\bin\Debug\net6.0\02-ComandoRepeticao-While.pdb
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\02-ComandoRepeticao-While.csproj.AssemblyReference.cache
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\02-ComandoRepeticao-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\02-ComandoRepeticao-While.AssemblyInfoInputs.cache
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\02-ComandoRepeticao-While.AssemblyInfo.cs
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\02-ComandoRepeticao-While.csproj.CoreCompileInputs.cache
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\02-ComandoRepeticao-While.dll
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\refint\02-ComandoRepeticao-While.dll
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\02-ComandoRepeticao-While.pdb
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\02-ComandoRepeticao-While.genruntimeconfig.cache
+C:\Users\michael\source\repos\SegundaSolucao\02-ComandoRepeticao-While\obj\Debug\net6.0\ref\02-ComandoRepeticao-While.dll
